@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tariq Faizi 👋
 
-<!--
-**tariq-faizi/tariq-faizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | IT Officer | Database Administrator | Digital Content Creator**
 
-Here are some ideas to get you started:
+📍 Gardez, Paktia, Afghanistan — open to remote work
+🎓 BSc Computer Science (Information Systems), Paktia University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+**[PU-SAMS — Paktia University Student Attendance Management System](https://github.com/tariq-faizi/PU-SAMS)**
+
+A complete role-based attendance management system built for Paktia University — five role panels (Admin, Dean, Manager, Teacher, Student), QR-code attendance with live scanning, timetable management, approvals workflow, audit log, scheduled backups and reports.
+
+*PHP & MySQL (26 tables) · Bootstrap 5 · Chart.js — Final-year project, Project Developer & Team Leader*
+
+## 🛠 Skills
+
+PHP · MySQL · JavaScript · HTML/CSS · Bootstrap · Database Design & Administration · IT Support & Networking · Digital Content Creation
+
+## 📫 Connect
+
+- LinkedIn: [linkedin.com/in/tariq-faizi-af](https://www.linkedin.com/in/tariq-faizi-af)
+- GitHub: [github.com/tariq-faizi](https://github.com/tariq-faizi)
